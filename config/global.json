@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "_default": {
+            "link": "noteriety,io"
+        }, 
+        "noteriety,io": {
+            "applicationId": "OFNO8cXxukz3LLN1hzzMw0QltIl6cvCCGko86AzJ", 
+            "masterKey": "lU7DibbbGsB4CcZLXQ6WJl45xVLLVt703yt8PVYM"
+        }
+    }
+}
